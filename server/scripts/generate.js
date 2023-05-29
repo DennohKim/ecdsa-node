@@ -7,3 +7,6 @@ console.log("Private Key", toHex(privateKey))
 
 const publicKey = secp256k1.getPublicKey(privateKey)
 console.log("Public Key", toHex(publicKey))
+
+
+//shortened address
